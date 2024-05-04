@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>My New Hugo Site</title>
+    <link>https://ckfyslb.github.io/</link>
+    <description>Recent content on My New Hugo Site</description>
+    <generator>Hugo -- 0.125.5</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sat, 04 May 2024 20:10:30 +0800</lastBuildDate>
+    <atom:link href="https://ckfyslb.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>自建博客记录</title>
+      <link>https://ckfyslb.github.io/notes/%E8%87%AA%E5%BB%BA%E5%8D%9A%E5%AE%A2%E8%AE%B0%E5%BD%95/</link>
+      <pubDate>Sat, 04 May 2024 20:10:30 +0800</pubDate>
+      <guid>https://ckfyslb.github.io/notes/%E8%87%AA%E5%BB%BA%E5%8D%9A%E5%AE%A2%E8%AE%B0%E5%BD%95/</guid>
+      <description></description>
+    </item>
+  </channel>
+</rss>
